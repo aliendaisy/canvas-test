@@ -16,7 +16,7 @@ class Test extends Component{
     render() {
         return(
             <div className="test">
-                <canvas id="draw" width="300px" height="300px"></canvas>
+                <canvas id="draw"></canvas>
                 <canvas id="code"></canvas>
             </div>
         )
